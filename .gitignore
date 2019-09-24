@@ -1,0 +1,5 @@
+env/
+dist/
+consolidador.egg-info/
+build/
+.vscode/
